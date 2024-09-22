@@ -1,3 +1,5 @@
+---
+
 Benmerouche Elmoatassim Billah
 
 📧 Email: mouatassemben2004@gmail.com
@@ -8,7 +10,7 @@ Benmerouche Elmoatassim Billah
 
 🧑‍💻 Profile
 
-Full Stack Developer with expertise in Laravel, React.js, Tailwind CSS, and RESTful API design. Proficient in SQL database management and Postman for API testing. Currently studying IT (L3) at Bachir El Ibrahimi University and an active member of the Infinity Club. Passionate about building scalable and efficient applications with a focus on clean architecture and high performance.
+Full Stack Developer with expertise in Laravel, React.js, Tailwind CSS, and RESTful API design. Proficient in SQL database management and Postman for API testing. Currently studying Computer Science (L3) at Bachir El Ibrahimi University and an active member of the Infinity Club. Passionate about building scalable and efficient applications with a focus on clean architecture and high performance.
 
 
 ---
@@ -34,13 +36,12 @@ Full Stack Developer with expertise in Laravel, React.js, Tailwind CSS, and REST
 🔧 Development Tools: VSCode, ZSH, Linux (Arch)
 
 
-
 ---
 
 🎓 Education
 
 Bachir El Ibrahimi University
-L3 IT Student
+L3 Computer Science Student
 Sept 2022 – Present
 
 
@@ -50,10 +51,10 @@ Sept 2022 – Present
 
 🇩🇿 Arabic: Native
 
-🇬🇧 English: Proficient
+🇬🇧 English: Good
 
-🇫🇷 French: Conversational
-
+🇫🇷 French: Good
 
 
 ---
+
