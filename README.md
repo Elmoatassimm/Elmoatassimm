@@ -1,39 +1,59 @@
-# Hi there, I'm Benmerrouche Elmoatassim Billah👋
+Benmerouche Elmoatassim Billah
 
-## Student | IT 
+📧 Email: mouatassemben2004@gmail.com
+📞 Phone: +213673205857
 
-### Skills
 
-- **Programming Languages**:
-  - PHP
-  - C
-  - HTML
+---
 
-- **Frameworks**:
-  - Laravel
+🧑‍💻 Profile
 
-- **Databases**:
-  - MySQL
-  - SQL
+Full Stack Developer with expertise in Laravel, React.js, Tailwind CSS, and RESTful API design. Proficient in SQL database management and Postman for API testing. Currently studying IT (L3) at Bachir El Ibrahimi University and an active member of the Infinity Club. Passionate about building scalable and efficient applications with a focus on clean architecture and high performance.
 
-- **API Design**:
-  - Designing RESTful APIs
-  - Optimizing API performance
 
-- **Database Design**:
-  - Database schema design
-  - Database optimization
+---
 
-- **Tools**:
-  - Git
-  - Postman
+⚡ Skills
 
-- **Others**:
-  - Software architecture design
-  - Code review and optimization
+🖥️ Languages: PHP, JavaScript, HTML, CSS
 
-### Projects
-- [Multi-Hotel-Backend-with-RESTful-API](https://github.com/Elmoatassimm/Multi-Hotel-Backend-with-RESTful-API/tree/V2): This project is a robust backend system for managing multiple hotels, built using Laravel. It provides a RESTful API that supports various operations. The API is designed to handle requests efficiently and securely, ensuring seamless interaction between the frontend application and the backend server.
+⚙️ Frameworks: Laravel, React.js
 
-### Contact
-- [Email](mouatassemben2004@gmail.com)
+🎨 Design Tools: Tailwind CSS
+
+🗄️ Database: MySQL
+
+🌐 API Design: RESTful API, JSON
+
+🏗️ System Design: Scalable architecture, Microservices
+
+🧪 API Testing: Postman
+
+🗃️ Version Control: Git
+
+🔧 Development Tools: VSCode, ZSH, Linux (Arch)
+
+
+
+---
+
+🎓 Education
+
+Bachir El Ibrahimi University
+L3 IT Student
+Sept 2022 – Present
+
+
+---
+
+🌍 Languages
+
+🇩🇿 Arabic: Native
+
+🇬🇧 English: Proficient
+
+🇫🇷 French: Conversational
+
+
+
+---
