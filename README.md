@@ -12,7 +12,8 @@
 
 ## 💡 Professional Summary
 
-Experienced Full Stack Web Developer with expertise in MERN stack (MongoDB, Express.js, React.js, Node.js), PHP/Laravel framework and system design. Skilled in building scalable web applications, designing APIs, with deep understanding of design patterns, architecture patterns and design principles. Strong problem-solving capabilities with expertise in full Software Development Life Cycle (SDLC) and system modeling using UML and C4 model. Demonstrates high adaptability in working with various web technologies and frameworks, quickly mastering new tools and languages based on project requirements.
+Experienced Full Stack Web Developer with expertise in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **PHP/Laravel framework**. Skilled in building scalable web applications, designing APIs, and applying software design principles and patterns. Proficient in **UML** and **C4 modeling** with a deep understanding of the **SDLC**. Adaptive to various web technologies and always eager to learn and implement new tools as needed.
+
 ---
 
 ## 🛠 Skills
