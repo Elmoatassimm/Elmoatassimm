@@ -1,63 +1,109 @@
 # Benmerrouche Elmoatassim Billah
 
-**Software Engineer | Full Stack Developer**  
-🌍 Bordj Bou Arreridj, Algeria  
-📧 [mouatassemben2004@gmail.com](mailto:mouatassemben2004@gmail.com)  
-📞 +213 673 205 857  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/elmoatassim-billah-benmerrouche-56278130a)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/Elmoatassimm)
+**Software Engineer | Full Stack Web Developer**  
+Bordj Bou Arreridj, Algeria  
+[LinkedIn](https://www.linkedin.com/in/elmoatassim-billah-benmerrouche-56278130a) • [GitHub](https://github.com/Elmoatassimm) • mouatassemben2004@gmail.com
 
 ---
 
-## 💡 Professional Summary
+## 🚀 About Me
 
-Experienced Full Stack Web Developer with expertise in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **PHP/Laravel framework**. Skilled in building scalable web applications, designing APIs, and applying software design principles and patterns. Proficient in **UML** and **C4 modeling** with a deep understanding of the **SDLC**. Adaptive to various web technologies and always eager to learn and implement new tools as needed.
+I'm a passionate Full Stack Developer and software engineer with a deep appreciation for building scalable systems and intelligent web applications. Winner of the **National Programming and AI Olympiad in Algeria**, I specialize in modern technologies like **Laravel**, **React**, and the **MERN stack**, coupled with a strong foundation in **system design**, **design patterns**, and **SDLC** practices.
 
 ---
 
-## 🛠 Skills
+## 🧠 Skills & Technologies
 
-### **Programming Languages**
-- PHP, JavaScript, Java, HTML, CSS
+### Languages
+- PHP, JavaScript, TypeScript, Java, C, HTML, CSS
 
-### **Frameworks & Technologies**
-- **Frontend:** React.js, Tailwind CSS, Redux  
-- **Backend:** Laravel, Express.js, Node.js, RESTful APIs, GraphQL  
-- **Databases:** MySQL, MongoDB, Cassandra, SQL  
-- **Tools:** Git, Postman, Arch Linux, Docker
+### Frontend
+- React.js, Tailwind CSS, Redux, Inertia.js
 
-### **Software Architecture & Design**
-- System Design (High-Level & Low-Level Design)  
-- Design Patterns, SOLID Principles, OOP, Dependency Injection  
-- UML & C4 Model, Architecture Patterns  
+### Backend
+- Laravel, Express.js, Node.js, RESTful APIs, WebSockets, Webhooks
 
-### **Languages**
-- Arabic, English, French
+### Database & Tools
+- MySQL, MongoDB, Redis, Git, Postman, Prisma, n8n
+
+### Architecture & Design
+- UML, C4 Model, SOLID, OOP, Design Patterns, CI/CD, Microservices
+
+### Soft Skills
+- Communication, Teamwork, Agile, English Proficiency, Leadership
+
+---
+
+## 🧑‍💻 Professional Experience
+
+### Full Stack Developer @ Infinity Club (2024 – Present)
+- Developed and maintained Laravel & React-based web applications.
+- Led workshops to share knowledge on web development best practices.
+
+### Software Engineer Intern @ AiSpeak (Feb – Apr 2025)
+- Contributed to a cross-platform AI-powered app with React Native.
+- Gained hands-on experience with Jira, Teams, and Notion while working with European teams.
+
+---
+
+## 🏆 Achievements
+
+- **Winner** of AI Olympiad 2025 (AcademicIQ platform)
+- **First Place** in Algeria's National Programming and AI Olympiad
+
+---
+
+## 🔧 Projects
+
+### [AcademicIQ – AI Learning Platform](https://github.com/Elmoatassimm)
+- Adaptive content delivery using AI & analytics for personalized learning.
+
+### [Nest Project – Power & Security System](https://github.com/Elmoatassimm/NEST)
+- Designed and implemented real-time security alerts and thermal anomaly detection using Laravel, React, and WebSockets.
+
+### [Municipality Platform](https://github.com/Elmoatassimm)
+- Laravel & React-powered citizen-municipality communication tool.
+
+### [Multi-Store Ecommerce Backend](https://github.com/Elmoatassimm/Ecommerce-Platform)
+- TypeScript, Prisma, Express.js backend with Messenger + Chargily Pay integration.
+
+### [Banking System Design (C4)](https://github.com/Elmoatassimm/Banking-System-Design)
+- Modeled system architecture using C4 and UML diagrams.
+
+### [Project Management System](https://github.com/Elmoatassimm/Project-Management-Web-Application)
+- Multi-user platform with role-based access control and JWT authentication.
+
+### [Stripe Task Priority](https://github.com/Elmoatassimm/Task-Managment-with-Stripe-integration)
+- Upgrade tasks using Stripe, CI/CD with GitHub Actions.
+
+### [Multi-Hotel Backend](https://github.com/Elmoatassimm/Multi-Hotel-Backend-with-RESTful-API)
+
+### [Weather App](https://github.com/Elmoatassimm/Weather-Website/tree/master)
+
+### [Library & Stock Systems (Java)](https://github.com/Elmoatassimm/software-engineering)
 
 ---
 
 ## 🎓 Education
 
-**Bachir El Ibrahimi University**, Bordj Bou Arreridj, Algeria  
-**Third Year Bachelor's Degree in Systems Information and Software Engineering**
+**Bachelor’s in Systems Information and Software Engineering**  
+Bachir Elibrahimi University – Bordj Bou Arreridj, Algeria  
+(Currently in 3rd Year)
 
 ---
 
-## 🚀 Projects
+## 📜 Certifications
 
-### **Banking System Design**
-- Designed a comprehensive banking system using **C4 model** and **class diagrams** for clear system visualization.  
-- Implemented **hexagonal architecture** for clean separation of concerns.
-
-### **Project Management System (Laravel & React.js)**
-- Developed a project management solution with **role-based access control**.  
-- Implemented features like **multi-user authentication**, task management, and real-time status updates.  
-- Built a secure **RESTful API** with Laravel and a responsive frontend with React.js.
-
-### **Multi-Hotel Management System (Laravel)**
-- Designed and developed a **RESTful API** for managing multiple hotels, including room management, booking, and availability tracking.  
-- Secured API endpoints with robust authentication and authorization mechanisms.
+- NVIDIA - Fundamentals of Deep Learning
 
 ---
 
+## ⚔️ Hackathons
+
+- **Hacktivate (2025):** Laravel backend for university club event approval system – [GitHub](https://github.com/Elmoatassimm/Hacktivate)
+- **ESTIN Competitive Programming (2025):** Algorithmic challenges under strict conditions (no internet, no AI).
+- **Project 0 (2024):** 3-day innovation sprint covering AI, cybersecurity, and system design.
+
+---
+
+Feel free to explore my projects or reach out for collaborations, open-source ideas, or opportunities. Let’s build something impactful together!
