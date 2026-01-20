@@ -1,89 +1,178 @@
-# [cite_start]Benmerrouche Elmoatassim Billah [cite: 1]
-[cite_start]**Software Engineer** [cite: 2]
-[cite_start]📍 Bordj Bou Arreridj, Algeria [cite: 3]
+# Benmerrouche Elmoatassim Billah  
+**Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-username) [![Portfolio](https://img.shields.io/badge/Portfolio-Green?style=flat&logo=website)](your-portfolio-link)
-[cite_start]📧 [mouatassemben2004@gmail.com](mailto:mouatassemben2004@gmail.com) [cite: 6] | [cite_start]📞 +213673205857 [cite: 7]
+📍 Bordj Bou Arreridj, Algeria  
+📧 [mouatassemben2004@gmail.com](mailto:mouatassemben2004@gmail.com)  
+📞 +213 673 205 857  
 
----
-
-## 🏆 Professional Summary
-[cite_start]**First Place Winner of the National Programming and AI Olympiad in Algeria.** [cite: 9]
-[cite_start]Software Engineer with over 3 years of professional experience delivering impactful solutions for real clients and users[cite: 10]. [cite_start]Driven by problem-solving, strategic thinking, and responsibility for results[cite: 11]. [cite_start]Known for fast learning, reliability, and strong ownership[cite: 11]. [cite_start]I focus on turning ideas into scalable solutions that create real value [cite: 12] [cite_start]and aim to contribute to high-performing teams that value autonomy, impact, and excellence[cite: 13].
+🔗 [LinkedIn](https://www.linkedin.com/in/elmoatassim-billah-benmerrouche-56278130a)  
+🔗 [GitHub](https://github.com/Elmoatassimm)  
+🔗 [Portfolio](https://elmoatassimtech.vercel.app)
 
 ---
 
-## 💼 Professional Experience
+## Professional Summary
 
-### [cite_start]**Freelance Full Stack Developer** [cite: 15]
-[cite_start]*2024 – Present* [cite: 16]
-* [cite_start]Designed and delivered custom web and mobile applications, and AI automation solutions for diverse clients[cite: 17].
-* [cite_start]Managed project timelines, client communications, and deployment processes independently[cite: 18].
-
-### [cite_start]**Software Engineer Intern (Remote)** [cite: 19]
-[cite_start]*AiSpeak* [cite: 20] | [cite_start]*Feb 2025 – Apr 2025* [cite: 21]
-* [cite_start]Contributed to AI-driven application development using React Native in a European company environment[cite: 22].
-* [cite_start]Collaborated cross-functionally with international teams using Jira, Microsoft Teams, and Notion[cite: 23].
+First Place Winner of the **National Programming & AI Olympiad (Algeria)**.  
+Software Engineer with **3+ years of professional experience**, delivering impactful, scalable solutions for real users and clients. Strong problem-solver with ownership mindset, fast learning ability, and a focus on turning ideas into production-ready systems. Interested in high-impact teams that value autonomy, responsibility, and engineering excellence.
 
 ---
 
-## 🚀 Projects
+## Professional Experience
 
-### [cite_start]**MedCortex - Medical Education Platform** [cite: 25]
-* [cite_start]**Scale:** Engineered backend for a learning platform with 100,000+ medical questions designed to support 10,000+ students[cite: 27].
-* [cite_start]**Features:** Implemented custom study sessions, intelligent filtering, personal notes, and online payment integration with study-year-level-based subscription tiers[cite: 28].
-* [cite_start]**Performance:** Optimized performance through caching strategies and query optimization to eliminate N+1 problems[cite: 29].
-* [cite_start]**Tech:** Evaluated technology trade-offs between Laravel and Express.js[cite: 29].
+### Freelance Full Stack Developer  
+**2024 – Present**
 
-### [cite_start]**Rachmati - Embroidery Pattern Marketplace** [cite: 30]
-* [cite_start]**Core:** Developed full-stack web and mobile application APIs for a digital marketplace connecting embroidery designers with clients[cite: 32].
-* [cite_start]**Integration:** Implemented subscription-based storefronts and a Telegram-integrated product delivery system[cite: 33].
-* [cite_start]**DevOps:** Deployed on VPS with Docker containerization for production reliability[cite: 33].
-* [cite_start]**Tech:** Gained practical experience evaluating database solutions (MySQL vs PostgreSQL)[cite: 34].
+- Designed and delivered custom **web & mobile applications** and **AI automation solutions**.
+- Managed end-to-end project lifecycle: requirements, architecture, development, deployment, and client communication.
+- Delivered production-ready systems independently with a strong focus on reliability and scalability.
 
-### [cite_start]**AcademicIQ - AI-Powered Learning Platform** [cite: 35]
-* [cite_start]**Achievement:** **AI Olympiad 2025 Winner**[cite: 36].
-* [cite_start]**AI Logic:** Built a personalized AI-driven learning system with adaptive content delivery based on student performance and knowledge gap analysis[cite: 37].
-* [cite_start]**Visualization:** Gained experience generating Mermaid diagrams through AI and implementing frontend rendering[cite: 38].
+### Software Engineer Intern (Remote)  
+**AiSpeak** — *February 2025 – April 2025*
 
-### [cite_start]**Nest Project - Intelligent Power & Security System** [cite: 39]
-* [cite_start]**Architecture:** Architected a full system managing data flow between frontend, backend, AI module, and hardware components[cite: 40].
-* [cite_start]**Real-time:** Implemented WebSocket-based real-time dashboard for live monitoring and visualization[cite: 41].
-* [cite_start]**Security:** Secured system communication using HMAC authentication and encrypted data transmission[cite: 42].
-
-### **Other Notable Repositories**
-* [cite_start]**Multi-Store Ecommerce Backend:** Scalable backend with layered architecture strictly following SOLID principles and Object-Oriented Design patterns[cite: 45, 46].
-* [cite_start]**Project Management System:** Role-based access control (RBAC), JWT-based authentication, and Google OAuth integration[cite: 49].
-* [cite_start]**Municipality Platform:** Web platform enabling citizen-to-municipality communication[cite: 51].
-* [cite_start]**Task Management:** Stripe Integration and automated CI/CD pipeline using GitHub Actions[cite: 52, 53].
-* [cite_start]**Banking System Design:** Architected comprehensive system using C4 model and class diagrams[cite: 54, 56].
-* [cite_start]**Additional:** Multi-Hotel Management System [cite: 57][cite_start], Weather Website [cite: 59][cite_start], Library Management System [cite: 61][cite_start], Stock Management System[cite: 63].
+- Contributed to **AI-driven mobile applications** using **React Native** in a European company environment.
+- Collaborated with international teams using **Jira, Microsoft Teams, and Notion**.
+- Gained hands-on experience in professional remote engineering workflows.
 
 ---
 
-## 🛠 Skills
+## Projects
 
-* [cite_start]**Programming Languages:** PHP, JavaScript, TypeScript, Java, C, HTML, CSS [cite: 68]
-* [cite_start]**Frontend:** React.js, Next.js, Tailwind CSS, Redux, Inertia.js [cite: 70]
-* [cite_start]**Backend:** Node.js, Express.js, Laravel, RESTful APIs, WebSockets, Webhooks, Microservice architecture, CI/CD Pipelines, Message brokers [cite: 72]
-* [cite_start]**Mobile:** React Native, Flutter [cite: 74]
-* [cite_start]**Databases:** MySQL, PostgreSQL, MongoDB, SQL, SQLite [cite: 76]
-* [cite_start]**Tools & DevOps:** Git, GitHub, Docker, Postman, Redis, n8n, Linux [cite: 78]
-* [cite_start]**Architecture:** System Design (High & Low Level), SOLID, OOD, Design Patterns, UML, C4 Model [cite: 80]
-* [cite_start]**Languages:** Arabic, English, French [cite: 82]
+### **MedCortex** – Medical Education Platform  
+🌐 https://med-cortex.com
 
----
-
-## 🎓 Education
-
-[cite_start]**Bachelor's Degree in Systems Information and Software Engineering** [cite: 85]
-[cite_start]*Bachir Elibrahimi University, Bordj Bou Arreridj, Algeria* [cite: 84]
+- Engineered backend for a learning platform with **100,000+ medical questions** supporting **10,000+ students**.
+- Implemented custom study sessions, intelligent filtering, personal notes, and **online payments** with year-based subscription tiers.
+- Optimized performance using **caching** and **query optimization**, eliminating N+1 issues.
+- Evaluated architectural trade-offs between **Laravel** and **Express.js**.
 
 ---
 
-## 🏅 Certifications & Hackathons
+### **Rachmati** – Embroidery Pattern Marketplace  
+🌐 https://rachamati.com
 
-* [cite_start]**Certification:** NVIDIA - Fundamentals of Deep Learning [cite: 87]
-* [cite_start]**Hackathon:** Hacktivate Hackathon (University of Bordj Bou Arreridj, 2025) [cite: 89, 91]
-* [cite_start]**Hackathon:** Competitive Programming Hackathon (ESTIN Bejaia, 2025) [cite: 90, 91]
-* [cite_start]**Hackathon:** Project 0 Hackathon (University of Msila, 2024) [cite: 90, 91]
+- Developed full-stack APIs for a digital marketplace connecting embroidery designers with clients.
+- Implemented **subscription-based storefronts** and **Telegram-integrated product delivery**.
+- Deployed on VPS using **Docker** for production stability.
+- Evaluated **MySQL vs PostgreSQL** and selected optimal solutions based on use-case constraints.
+
+---
+
+### **AcademicIQ** – AI-Powered Learning Platform  
+🏆 *AI Olympiad 2025 – Winner*
+
+- Built a personalized AI learning system with adaptive content based on performance and knowledge gaps.
+- Implemented **AI-generated Mermaid diagrams** and frontend rendering for visual learning paths.
+
+---
+
+### **Nest Project** – Intelligent Power & Security System  
+🔗 https://github.com/Elmoatassimm/NEST
+
+- Architected full system integrating frontend, backend, AI module, and hardware components.
+- Built **WebSocket-based real-time dashboards**.
+- Secured communication using **HMAC authentication** and encrypted data transmission.
+- Designed **event-driven architecture** with webhooks for automated alerts.
+
+---
+
+### **Multi-Store E-Commerce Backend**  
+🔗 https://github.com/Elmoatassimm/Ecommerce-Platform
+
+- Built a scalable multi-store backend following **SOLID principles**.
+- Applied **Object-Oriented Design patterns** with full **UML modeling**.
+
+---
+
+### **Project Management System**  
+🔗 https://github.com/Elmoatassimm/Project-Management-Web-Application
+
+- Implemented **RBAC**, **JWT authentication**, and **Google OAuth**.
+
+---
+
+### **Municipality Platform**  
+🔗 https://github.com/Elmoatassimm/ghailassa
+
+- Built a citizen-municipality communication platform for concerns and public news.
+
+---
+
+### **Task Management System (Stripe Integration)**  
+🔗 https://github.com/Elmoatassimm/Task-Managment-with-Stripe-integration
+
+- Implemented **Stripe payments** and automated **CI/CD pipelines** using GitHub Actions.
+
+---
+
+### **Banking System Design**  
+🔗 https://github.com/Elmoatassimm/Banking-System-Design
+
+- Designed enterprise-level banking architecture using **C4 Model** and **Class Diagrams**.
+
+---
+
+### Additional Projects
+
+- Multi-Hotel Management System  
+  🔗 https://github.com/Elmoatassimm/Multi-Hotel-Backend-with-RESTful-API
+- Weather Website  
+  🔗 https://github.com/Elmoatassimm/Weather-Website/tree/master
+- Library Management System  
+  🔗 https://github.com/Elmoatassimm/software-engineering/tree/main/Library%20Managment%20(MVC)
+- Stock Management System  
+  🔗 https://github.com/Elmoatassimm/software-engineering/tree/main/mini%20stock%20management
+
+---
+
+## Skills
+
+### Programming Languages
+PHP, JavaScript, TypeScript, Java, C, HTML, CSS
+
+### Frontend
+React.js, Next.js, Tailwind CSS, Redux, Inertia.js
+
+### Backend
+Node.js, Express.js, Laravel, RESTful APIs, WebSockets, Webhooks, Microservices, CI/CD Pipelines, Message Brokers
+
+### Mobile
+React Native, Flutter
+
+### Databases
+MySQL, PostgreSQL, MongoDB, SQLite
+
+### Tools & DevOps
+Git, GitHub, Docker, Postman, Redis, n8n, Linux
+
+### Software Architecture & Design
+System Design (HLD & LLD), SOLID, OOP, Design Patterns, UML, C4 Model
+
+---
+
+## Languages
+
+- Arabic  
+- English  
+- French  
+
+---
+
+## Education
+
+**Bachir El Ibrahimi University**, Bordj Bou Arreridj, Algeria  
+Bachelor’s Degree in **Systems Information & Software Engineering**
+
+---
+
+## Certifications
+
+- **NVIDIA – Fundamentals of Deep Learning**
+
+---
+
+## Hackathons
+
+- Hacktivate Hackathon — University of Bordj Bou Arreridj (2025)
+- Competitive Programming Hackathon — ESTIN Bejaia (2025)
+- Project 0 Hackathon — University of Msila (2024)
